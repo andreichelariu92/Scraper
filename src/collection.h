@@ -1,7 +1,6 @@
 #ifndef COLLECTION_H
 
 #define COLLECTION_H
-
 #include <stdio.h>
 #include <string>
 #include <vector>
@@ -17,6 +16,9 @@ class Object
   public:
     ///Identification Number
     int id;
+    bool operator==(const Object& mem2);
+    int getID()const;
+    virtual int who()const;
     virtual ~Object();
 };
 
@@ -33,19 +35,20 @@ class Collection
 
   public:
     ///Reads the collection from the file and constructs a vector of objects
-    virtual void read(FILE* file)=0;
+    virtual void read(string fileName)=0;
     ///Writes the collection to the file,removing all precedent information
-    virtual void write(FILE* file)=0;
+    virtual void write(string fileName)=0;
     ///Returns a copy of the vector
-    virtual vector<Object> getVector()=0;
+    virtual vector<Object*> getVector()const=0;
     ///It uses the sort algorithm from STL
-    virtual void sort(bool (*pf)(const Object& a,const Object& b))=0;
+    virtual void sortVector(bool (*pf)(const Object* a ,const Object* b))=0;
     ///Returns a vector of objects for witch function(Object) is TRUE
-    virtual vector<Object> filter(bool (*function)(const Object& obj))=0;
+    virtual vector<Object*> filter(bool (*function)(const Object* obj))=0;
     ///Removes the selected object from the vector
-    virtual void remove(const Object& obj)=0;
+    virtual void removeElement(const Object obj)=0;
     ///Returns a Stats object witch contains the minimum ,medium and average price
-    virtual Stats statistics(vector<Object> vect)=0;
+    virtual Stats statistics(vector<Object*> vect)=0;
+    virtual ~Collection();
 
 };
 
@@ -53,18 +56,19 @@ class Collection
 /**
  * \class Stats
  * Contains the Objects with the minimum and maximum price
- * It also contains the average price
+ * It also contains the average prdasdce
  */
 class Stats 
 {
   public:
-    Stats(const Object& min,const Object& max,int average);
-    Object getMin();
-    Object getMax();
-    int getAverage();
+    Stats(const Object* min,const Object* max,double average);
+    Object* getMin();
+    Object* getMax();
+    double getAverage();
+    ~Stats();
   private:
-    Object min;
-    Object max;
-    int average;
+    Object* min;
+    Object* max;
+    double average;
 };
 #endif /* end of include guard: COLLECTION_H */
