@@ -1,0 +1,180 @@
+###
+1
+Fiat Bravo
+799
+1
+123000
+2001
+Dolj
+www.autovit.ro/fiat-bravo-C33845465.html
+###
+2
+Fiat Bravo
+4990
+2
+128006
+2008
+Braila
+www.autovit.ro/fiat-bravo-C31112237.html
+###
+3
+Fiat Bravo
+6199
+2
+102000
+2010
+Constanta
+www.autovit.ro/fiat-bravo-C29230884.html
+###
+4
+Fiat Bravo
+4450
+2
+114000
+2008
+BUCURESTI
+www.autovit.ro/fiat-bravo-C33515725.html
+###
+5
+Fiat Bravo
+5990
+1
+15000
+2010
+Timis
+www.autovit.ro/fiat-bravo-C33235895.html
+###
+6
+Fiat Bravo
+5800
+2
+139125
+2011
+Valcea
+www.autovit.ro/fiat-bravo-C31654481.html
+###
+7
+Fiat Bravo
+4899
+1
+164000
+2008
+Galati
+www.autovit.ro/fiat-bravo-C33490147.html
+###
+8
+Fiat Bravo
+4500
+2
+108000
+2008
+Galati
+www.autovit.ro/fiat-bravo-C33867783.html
+###
+9
+Fiat Bravo
+6700
+1
+77000
+2011
+Constanta
+www.autovit.ro/fiat-bravo-C33322903.html
+###
+10
+Fiat Bravo
+6000
+1
+24000
+2011
+BUCURESTI
+www.autovit.ro/fiat-bravo-C33320961.html
+###
+11
+Fiat Bravo
+1800
+1
+121000
+2001
+Prahova
+www.autovit.ro/fiat-bravo-C32937151.html
+###
+12
+Fiat Bravo
+6600
+1
+57600
+2008
+Galati
+www.autovit.ro/fiat-bravo-C33671023.html
+###
+13
+Fiat Bravo
+6200
+1
+81500
+2009
+Constanta
+www.autovit.ro/fiat-bravo-C33839521.html
+###
+14
+Fiat Bravo
+4400
+1
+128000
+2008
+BUCURESTI
+www.autovit.ro/fiat-bravo-C33836806.html
+###
+15
+Fiat Bravo
+6000
+2
+143000
+2007
+Timis
+www.autovit.ro/fiat-bravo-C33832737.html
+###
+16
+Fiat Bravo
+7850
+2
+94800
+2010
+Bacau
+www.autovit.ro/fiat-bravo-C33665622.html
+###
+17
+Fiat Bravo
+5399
+2
+165000
+2007
+Prahova
+www.autovit.ro/fiat-bravo-C33771313.html
+###
+18
+Fiat Bravo
+7500
+1
+65000
+2008
+BUCURESTI
+www.autovit.ro/fiat-bravo-C33742747.html
+###
+19
+Fiat Bravo
+7000
+1
+56000
+2010
+Bistrita-Nasaud
+www.autovit.ro/fiat-bravo-C32103226.html
+###
+20
+Fiat Bravo
+5600
+1
+72315
+2008
+Brasov
+www.autovit.ro/fiat-bravo-C27926982.html
