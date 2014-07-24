@@ -43,6 +43,7 @@ class Car:
     self.city=_city
     if(not self.city):
       self.city=""
+    self.city=self.city.upper()
     self.city=self.city.strip()
 
 

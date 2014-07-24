@@ -1,180 +1,4455 @@
 ###
 1
-Fiat Bravo
-799
+Dacia Logan
+3450
 1
-123000
-2001
-Dolj
-www.autovit.ro/fiat-bravo-C33845465.html
+46000
+2007
+ARGES
+www.autovit.ro/dacia-logan-C33975254.html
 ###
 2
-Fiat Bravo
-4990
+Dacia Logan
+5300
 2
-128006
-2008
-Braila
-www.autovit.ro/fiat-bravo-C31112237.html
+53500
+2011
+ARGES
+www.autovit.ro/dacia-logan-C33026788.html
 ###
 3
-Fiat Bravo
-6199
-2
-102000
+Dacia Logan
+3600
+1
+38300
 2010
-Constanta
-www.autovit.ro/fiat-bravo-C29230884.html
+ARGES
+www.autovit.ro/dacia-logan-C33973046.html
 ###
 4
-Fiat Bravo
-4450
+Dacia Logan
+4490
 2
-114000
-2008
-BUCURESTI
-www.autovit.ro/fiat-bravo-C33515725.html
+140000
+2009
+OLT
+www.autovit.ro/dacia-logan-C33960032.html
 ###
 5
-Fiat Bravo
-5990
-1
-15000
-2010
-Timis
-www.autovit.ro/fiat-bravo-C33235895.html
+Dacia Logan Van
+2750
+2
+67850
+2009
+ARGES
+www.autovit.ro/dacia-logan-van-C33969814.html
 ###
 6
-Fiat Bravo
-5800
+Dacia Logan
+2940
 2
-139125
-2011
-Valcea
-www.autovit.ro/fiat-bravo-C31654481.html
+40000
+2008
+ARGES
+www.autovit.ro/dacia-logan-C33968274.html
 ###
 7
-Fiat Bravo
-4899
-1
-164000
-2008
-Galati
-www.autovit.ro/fiat-bravo-C33490147.html
+Dacia Logan Van
+4700
+2
+81000
+2010
+ILFOV
+www.autovit.ro/dacia-logan-van-C32864921.html
 ###
 8
-Fiat Bravo
-4500
+Dacia Logan
+5600
 2
-108000
-2008
-Galati
-www.autovit.ro/fiat-bravo-C33867783.html
+103176
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33223420.html
 ###
 9
-Fiat Bravo
-6700
-1
-77000
-2011
-Constanta
-www.autovit.ro/fiat-bravo-C33322903.html
+Dacia Logan
+3700
+2
+86000
+2007
+ARGES
+www.autovit.ro/dacia-logan-C33239642.html
 ###
 10
-Fiat Bravo
-6000
+Dacia Logan
+2800
 1
-24000
-2011
+59000
+2008
 BUCURESTI
-www.autovit.ro/fiat-bravo-C33320961.html
+www.autovit.ro/dacia-logan-C33965256.html
 ###
 11
-Fiat Bravo
-1800
+Dacia Logan
+3100
 1
-121000
-2001
-Prahova
-www.autovit.ro/fiat-bravo-C32937151.html
+49600
+2008
+ARGES
+www.autovit.ro/dacia-logan-C33964628.html
 ###
 12
-Fiat Bravo
-6600
+Dacia Logan
+5200
 1
-57600
-2008
-Galati
-www.autovit.ro/fiat-bravo-C33671023.html
+37000
+2010
+ARGES
+www.autovit.ro/dacia-logan-C33963724.html
 ###
 13
-Fiat Bravo
-6200
-1
-81500
-2009
-Constanta
-www.autovit.ro/fiat-bravo-C33839521.html
+Dacia Logan
+2450
+2
+85000
+2007
+BUCURESTI
+www.autovit.ro/dacia-logan-C33942788.html
 ###
 14
-Fiat Bravo
-4400
-1
-128000
-2008
+Dacia Logan
+2300
+2
+75850
+2006
 BUCURESTI
-www.autovit.ro/fiat-bravo-C33836806.html
+www.autovit.ro/dacia-logan-C33855641.html
 ###
 15
-Fiat Bravo
-6000
-2
-143000
-2007
-Timis
-www.autovit.ro/fiat-bravo-C33832737.html
+Dacia Logan
+2000
+1
+65000
+2006
+BUCURESTI
+www.autovit.ro/dacia-logan-C33959367.html
 ###
 16
-Fiat Bravo
-7850
-2
-94800
-2010
-Bacau
-www.autovit.ro/fiat-bravo-C33665622.html
+Dacia Logan
+3350
+1
+63000
+2007
+BUCURESTI
+www.autovit.ro/dacia-logan-C33958841.html
 ###
 17
-Fiat Bravo
-5399
+Dacia Logan Van
+3899
+1
+25077
+2007
+BUCURESTI
+www.autovit.ro/dacia-logan-van-C33106618.html
+###
+18
+Dacia Logan
+5799
+2
+93798
+2009
+BUCURESTI
+www.autovit.ro/dacia-logan-C31878020.html
+###
+19
+Dacia Logan Van
+2500
+2
+266500
+2008
+BRAILA
+www.autovit.ro/dacia-logan-van-C33648823.html
+###
+20
+Dacia Logan
+3950
+1
+18400
+2010
+ARGES
+www.autovit.ro/dacia-logan-C33957205.html
+###
+21
+Dacia Logan
+7290
+2
+147445
+2011
+VRANCEA
+www.autovit.ro/dacia-logan-C33601623.html
+###
+22
+Dacia Logan
+3400
+1
+58250
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C33957070.html
+###
+23
+Dacia Logan
+6150
+1
+38500
+2012
+BUCURESTI
+www.autovit.ro/dacia-logan-C33955994.html
+###
+24
+Dacia Logan Van
+2600
+2
+78000
+2007
+ARGES
+www.autovit.ro/dacia-logan-van-C33452796.html
+###
+25
+Dacia Logan
+3850
+1
+32000
+2009
+BUCURESTI
+www.autovit.ro/dacia-logan-C33954035.html
+###
+26
+Dacia Logan
+2650
+1
+144000
+2007
+MURES
+www.autovit.ro/dacia-logan-C33698272.html
+###
+27
+Dacia Logan
+3290
+1
+45287
+2008
+ARGES
+www.autovit.ro/dacia-logan-C33951533.html
+###
+28
+Dacia Logan
+1590
+1
+97500
+2006
+BRASOV
+www.autovit.ro/dacia-logan-C33951248.html
+###
+29
+Dacia Logan
+2850
+1
+78000
+2007
+ARGES
+www.autovit.ro/dacia-logan-C33726177.html
+###
+30
+Dacia Logan
+6990
+1
+11500
+2013
+BUCURESTI
+www.autovit.ro/dacia-logan-C33950565.html
+###
+31
+Dacia Logan
+4900
+1
+64000
+2011
+CALARASI
+www.autovit.ro/dacia-logan-C33949719.html
+###
+32
+Dacia Logan
+5650
+1
+67500
+2011
+ARGES
+www.autovit.ro/dacia-logan-C33949357.html
+###
+33
+Dacia Logan
+3690
+1
+80000
+2008
+ARGES
+www.autovit.ro/dacia-logan-C33624667.html
+###
+34
+Dacia Logan
+1999
+1
+70650
+2006
+BUCURESTI
+www.autovit.ro/dacia-logan-C33806708.html
+###
+35
+Dacia Logan
+3890
+2
+87700
+2008
+ARGES
+www.autovit.ro/dacia-logan-C33946928.html
+###
+36
+Dacia Logan
+5100
+2
+85000
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C33946816.html
+###
+37
+Dacia Logan
+3499
+2
+147000
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C33784479.html
+###
+38
+Dacia Logan
+3850
+1
+92000
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C33946637.html
+###
+39
+Dacia Logan
+6780
+2
+18600
+2012
+ARGES
+www.autovit.ro/dacia-logan-C33944626.html
+###
+40
+Dacia Logan
+1925
+1
+71000
+2005
+ARGES
+www.autovit.ro/dacia-logan-C33940695.html
+###
+41
+Dacia Logan
+3990
+1
+75000
+2009
+BUCURESTI
+www.autovit.ro/dacia-logan-C33908730.html
+###
+42
+Dacia Logan
+3650
+1
+28031
+2010
+BRAILA
+www.autovit.ro/dacia-logan-C33940148.html
+###
+43
+Dacia Logan
+5000
+2
+113000
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C33830683.html
+###
+44
+Dacia Logan
+4990
+2
+65000
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33893856.html
+###
+45
+Dacia Logan Van
+6490
+2
+136249
+2010
+ARGES
+www.autovit.ro/dacia-logan-van-C33829767.html
+###
+46
+Dacia Logan
+5490
+2
+86154
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C33758878.html
+###
+47
+Dacia Logan
+6750
+2
+105469
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C33611209.html
+###
+48
+Dacia Logan
+3650
+2
+78500
+2008
+ARGES
+www.autovit.ro/dacia-logan-C33933929.html
+###
+49
+Dacia Logan
+7200
+1
+22000
+2011
+ARGES
+www.autovit.ro/dacia-logan-C33933466.html
+###
+50
+Dacia Logan
+2999
+2
+77000
+2007
+ARGES
+www.autovit.ro/dacia-logan-C33933262.html
+###
+51
+Dacia Logan
+2999
+2
+188000
+2008
+BIHOR
+www.autovit.ro/dacia-logan-C33633342.html
+###
+52
+Dacia Logan
+4600
+2
+116000
+2010
+ARGES
+www.autovit.ro/dacia-logan-C33927881.html
+###
+53
+Dacia Logan
+2599
+2
+107000
+2008
+SALAJ
+www.autovit.ro/dacia-logan-C33773296.html
+###
+54
+Dacia Logan
+5600
+1
+54000
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C33924187.html
+###
+55
+Dacia Logan
+5500
+1
+40876
+2011
+ARGES
+www.autovit.ro/dacia-logan-C33922651.html
+###
+56
+Dacia Logan
+3000
+1
+114000
+2007
+PRAHOVA
+www.autovit.ro/dacia-logan-C33130389.html
+###
+57
+Dacia Logan
+4450
+2
+63000
+2010
+ARGES
+www.autovit.ro/dacia-logan-C33455266.html
+###
+58
+Dacia Logan
+5950
+2
+75000
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C32640860.html
+###
+59
+Dacia Logan
+5555
+2
+92750
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C32640826.html
+###
+60
+Dacia Logan
+5890
+2
+79892
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C32640786.html
+###
+61
+Dacia Logan Van
+3490
+2
+67000
+2007
+ARGES
+www.autovit.ro/dacia-logan-van-C32782968.html
+###
+62
+Dacia Logan
+4050
+1
+62400
+2008
+ARGES
+www.autovit.ro/dacia-logan-C33918908.html
+###
+63
+Dacia Logan
+3990
+1
+77300
+2008
+ARGES
+www.autovit.ro/dacia-logan-C33918790.html
+###
+64
+Dacia Logan
+7700
+1
+5900
+2014
+ARGES
+www.autovit.ro/dacia-logan-C33914370.html
+###
+65
+Dacia Logan
+2950
+2
+93450
+2007
+CONSTANTA
+www.autovit.ro/dacia-logan-C33913892.html
+###
+66
+Dacia Logan
+4150
+1
+74000
+2009
+CLUJ
+www.autovit.ro/dacia-logan-C33913860.html
+###
+67
+Dacia Logan
+4700
+1
+51000
+2011
+BIHOR
+www.autovit.ro/dacia-logan-C33562113.html
+###
+68
+Dacia Logan
+2950
+1
+83000
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C33911719.html
+###
+69
+Dacia Logan
+5850
+2
+72675
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33157846.html
+###
+70
+Dacia Logan
+5850
+2
+76703
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33157890.html
+###
+71
+Dacia Logan
+5200
+2
+71000
+2011
+ARGES
+www.autovit.ro/dacia-logan-C33494185.html
+###
+72
+Dacia Logan
+3150
+2
+67800
+2008
+ARGES
+www.autovit.ro/dacia-logan-C33908455.html
+###
+73
+Dacia Logan
+5190
+2
+129811
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C33905438.html
+###
+74
+Dacia Logan
+1750
+2
+135000
+2006
+BUCURESTI
+www.autovit.ro/dacia-logan-C33902525.html
+###
+75
+Dacia Logan
+7400
+2
+36000
+2012
+BUCURESTI
+www.autovit.ro/dacia-logan-C33901289.html
+###
+76
+Dacia Logan
+3850
+1
+39500
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C33749258.html
+###
+77
+Dacia Logan Van
+5850
+2
+27231
+2012
+ARGES
+www.autovit.ro/dacia-logan-van-C33897476.html
+###
+78
+Dacia Logan
+4480
+2
+80000
+2008
+PRAHOVA
+www.autovit.ro/dacia-logan-C33896509.html
+###
+79
+Dacia Logan
+4000
+1
+32400
+2007
+BISTRITA-NASAUD
+www.autovit.ro/dacia-logan-C33895976.html
+###
+80
+Dacia Logan
+5250
+2
+110000
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33891608.html
+###
+81
+Dacia Logan
+4952
+2
+87300
+2010
+PRAHOVA
+www.autovit.ro/dacia-logan-C33889462.html
+###
+82
+Dacia Logan
+5490
+2
+110472
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33722122.html
+###
+83
+Dacia Logan
+4999
+1
+30000
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C33724977.html
+###
+84
+Dacia Logan
+2390
+2
+191000
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C32750388.html
+###
+85
+Dacia Logan
+5900
+2
+64000
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33306103.html
+###
+86
+Dacia Logan
+2200
+1
+236000
+2005
+BUCURESTI
+www.autovit.ro/dacia-logan-C33887864.html
+###
+87
+Dacia Logan
+4780
+2
+64000
+2011
+ARGES
+www.autovit.ro/dacia-logan-C33886969.html
+###
+88
+Dacia Logan
+3700
+2
+92500
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C33886290.html
+###
+89
+Dacia Logan
+3650
+1
+33000
+2006
+BRAILA
+www.autovit.ro/dacia-logan-C32276336.html
+###
+90
+Dacia Logan
+2350
+1
+150000
+2006
+BACAU
+www.autovit.ro/dacia-logan-C33861196.html
+###
+91
+Dacia Logan
+4700
+1
+50500
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C33876545.html
+###
+92
+Dacia Logan
+5800
+2
+65000
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C33717820.html
+###
+93
+Dacia Logan
+5750
+1
+31000
+2011
+ARGES
+www.autovit.ro/dacia-logan-C33873845.html
+###
+94
+Dacia Logan
+3650
+1
+23000
+2009
+DAMBOVITA
+www.autovit.ro/dacia-logan-C33873609.html
+###
+95
+Dacia Logan
+3999
+2
+99850
+2008
+ARGES
+www.autovit.ro/dacia-logan-C33870691.html
+###
+96
+Dacia Logan
+2650
+1
+78000
+2008
+ARGES
+www.autovit.ro/dacia-logan-C33867018.html
+###
+97
+Dacia Logan
+3950
+1
+79648
+2008
+ARGES
+www.autovit.ro/dacia-logan-C33867664.html
+###
+98
+Dacia Logan
+4990
+1
+63200
+2010
+ARGES
+www.autovit.ro/dacia-logan-C33699509.html
+###
+99
+Dacia Logan
+3450
+1
+80700
+2006
+SIBIU
+www.autovit.ro/dacia-logan-C33521511.html
+###
+100
+Dacia Logan
+2990
+1
+65300
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C33683040.html
+###
+101
+Dacia Logan
+2990
+2
+82730
+2007
+MEHEDINTI
+www.autovit.ro/dacia-logan-C33864160.html
+###
+102
+Dacia Logan
+5590
+2
+29600
+2011
+ARGES
+www.autovit.ro/dacia-logan-C33860971.html
+###
+103
+Dacia Logan
+3950
+2
+68000
+2008
+ARGES
+www.autovit.ro/dacia-logan-C32905258.html
+###
+104
+Dacia Logan Van
+2900
+1
+113000
+2008
+GIURGIU
+www.autovit.ro/dacia-logan-van-C33848487.html
+###
+105
+Dacia Logan
+3000
+2
+133000
+2007
+GALATI
+www.autovit.ro/dacia-logan-C33282485.html
+###
+106
+Dacia Logan
+4200
+2
+112000
+2008
+BRASOV
+www.autovit.ro/dacia-logan-C33836729.html
+###
+107
+Dacia Logan
+5750
+1
+32000
+2011
+ARGES
+www.autovit.ro/dacia-logan-C33831342.html
+###
+108
+Dacia Logan
+3300
+2
+110000
+2007
+OLT
+www.autovit.ro/dacia-logan-C33768580.html
+###
+109
+Dacia Logan
+3950
+2
+73000
+2008
+ARGES
+www.autovit.ro/dacia-logan-C33826265.html
+###
+110
+Dacia Logan
+3299
+1
+58600
+2007
+ARGES
+www.autovit.ro/dacia-logan-C33826203.html
+###
+111
+Dacia Logan
+3850
+2
+72500
+2007
+ARGES
+www.autovit.ro/dacia-logan-C33825967.html
+###
+112
+Dacia Logan
+2999
+1
+46000
+2005
+BRASOV
+www.autovit.ro/dacia-logan-C33817033.html
+###
+113
+Dacia Logan
+1800
+1
+191000
+2005
+OLT
+www.autovit.ro/dacia-logan-C33776637.html
+###
+114
+Dacia Logan
+3700
+2
+89000
+2008
+ARGES
+www.autovit.ro/dacia-logan-C33764101.html
+###
+115
+Dacia Logan Van
+3000
+2
+81361
+2008
+CONSTANTA
+www.autovit.ro/dacia-logan-van-C33654168.html
+###
+116
+Dacia Logan
+2550
+1
+155500
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C33748552.html
+###
+117
+Dacia Logan
+2700
+1
+133000
+2006
+BUCURESTI
+www.autovit.ro/dacia-logan-C33704669.html
+###
+118
+Dacia Logan
+6000
+2
+68000
+2011
+ARGES
+www.autovit.ro/dacia-logan-C32500217.html
+###
+119
+Dacia Logan
+2990
+2
+88000
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C33974160.html
+###
+120
+Dacia Logan Van
+1850
+2
+180000
+2007
+BUCURESTI
+www.autovit.ro/dacia-logan-van-C33973611.html
+###
+121
+Dacia Logan
+2350
+1
+45000
+2006
+CONSTANTA
+www.autovit.ro/dacia-logan-C33306303.html
+###
+122
+Dacia Logan
+5650
+1
+28000
+2012
+CALARASI
+www.autovit.ro/dacia-logan-C33972152.html
+###
+123
+Dacia Logan
+2850
+1
+63000
+2007
+COVASNA
+www.autovit.ro/dacia-logan-C33971699.html
+###
+124
+Dacia Logan
+4300
+1
+109500
+2008
+PRAHOVA
+www.autovit.ro/dacia-logan-C33971097.html
+###
+125
+Dacia Logan
+3000
+1
+106000
+2007
+TIMIS
+www.autovit.ro/dacia-logan-C33970363.html
+###
+126
+Dacia Logan
+3100
+1
+88000
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C33970379.html
+###
+127
+Dacia Logan
+2800
+1
+182000
+2008
+BRASOV
+www.autovit.ro/dacia-logan-C33970026.html
+###
+128
+Dacia Logan
+5899
+2
+88433
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33969562.html
+###
+129
+Dacia Logan
+1857
+2
+108500
+2007
+BUCURESTI
+www.autovit.ro/dacia-logan-C33969197.html
+###
+130
+Dacia Logan
+8100
+2
+47169
+2012
+ARGES
+www.autovit.ro/dacia-logan-C32567952.html
+###
+131
+Dacia Logan Van
+4650
+2
+113513
+2009
+ARGES
+www.autovit.ro/dacia-logan-van-C32423409.html
+###
+132
+Dacia Logan Van
+4650
+2
+104704
+2009
+ARGES
+www.autovit.ro/dacia-logan-van-C32423510.html
+###
+133
+Dacia Logan Van
+7300
+2
+33000
+2012
+ARGES
+www.autovit.ro/dacia-logan-van-C32732761.html
+###
+134
+Dacia Logan
+6600
+2
+78000
+2012
+ARGES
+www.autovit.ro/dacia-logan-C33431300.html
+###
+135
+Dacia Logan
+6100
+2
+97700
+2012
+ARGES
+www.autovit.ro/dacia-logan-C33430961.html
+###
+136
+Dacia Logan
+2350
+2
+255000
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C33754438.html
+###
+137
+Dacia Logan
+3990
+1
+67048
+2007
+ARGES
+www.autovit.ro/dacia-logan-C33051152.html
+###
+138
+Dacia Logan
+2700
+2
+65000
+2007
+BUCURESTI
+www.autovit.ro/dacia-logan-C33968209.html
+###
+139
+Dacia Logan
+3450
+1
+59000
+2009
+PRAHOVA
+www.autovit.ro/dacia-logan-C33967988.html
+###
+140
+Dacia Logan
+1132
+1
+97700
+2005
+OLT
+www.autovit.ro/dacia-logan-C33967968.html
+###
+141
+Dacia Logan
+4550
+1
+55500
+2009
+PRAHOVA
+www.autovit.ro/dacia-logan-C33147121.html
+###
+142
+Dacia Logan
+3850
+1
+52000
+2009
+PRAHOVA
+www.autovit.ro/dacia-logan-C33045495.html
+###
+143
+Dacia Logan
+1990
+1
+93000
+2006
+DOLJ
+www.autovit.ro/dacia-logan-C33788539.html
+###
+144
+Dacia Logan
+3650
+1
+21000
+2009
+BUCURESTI
+www.autovit.ro/dacia-logan-C33964182.html
+###
+145
+Dacia Logan
+3400
+1
+71000
+2007
+ILFOV
+www.autovit.ro/dacia-logan-C33941704.html
+###
+146
+Dacia Logan
+4700
+2
+169000
+2009
+BUCURESTI
+www.autovit.ro/dacia-logan-C33961221.html
+###
+147
+Dacia Logan Van
+3200
+2
+80000
+2007
+ARGES
+www.autovit.ro/dacia-logan-van-C33961244.html
+###
+148
+Dacia Logan
+2600
+2
+86000
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C33960182.html
+###
+149
+Dacia Logan
+6002
+2
+103831
+2010
+ILFOV
+www.autovit.ro/dacia-logan-C33514565.html
+###
+150
+Dacia Logan
+7250
+2
+95305
+2010
+HARGHITA
+www.autovit.ro/dacia-logan-C33959072.html
+###
+151
+Dacia Logan
+1990
+1
+110805
+2005
+HARGHITA
+www.autovit.ro/dacia-logan-C33958913.html
+###
+152
+Dacia Logan
+1650
+1
+169000
+2007
+BUCURESTI
+www.autovit.ro/dacia-logan-C33958473.html
+###
+153
+Dacia Logan
+3690
+1
+53350
+2010
+SIBIU
+www.autovit.ro/dacia-logan-C33958344.html
+###
+154
+Dacia Logan
+2900
+2
+97000
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C33958035.html
+###
+155
+Dacia Logan
+4850
+2
+174559
+2010
+ILFOV
+www.autovit.ro/dacia-logan-C33958152.html
+###
+156
+Dacia Logan
+6199
+2
+67418
+2009
+BUCURESTI
+www.autovit.ro/dacia-logan-C33792029.html
+###
+157
+Dacia Logan Van
+6699
+1
+14347
+2012
+BUCURESTI
+www.autovit.ro/dacia-logan-van-C32722960.html
+###
+158
+Dacia Logan Van
+5499
+2
+99562
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-van-C30974006.html
+###
+159
+Dacia Logan
+6099
+2
+66734
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33791975.html
+###
+160
+Dacia Logan
+6399
+2
+44290
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33791943.html
+###
+161
+Dacia Logan
+6399
+1
+58183
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33618882.html
+###
+162
+Dacia Logan
+5450
+2
+121803
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C33957759.html
+###
+163
+Dacia Logan
+6199
+1
+77379
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33617753.html
+###
+164
+Dacia Logan
+5599
+2
+111909
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C33447277.html
+###
+165
+Dacia Logan
+5499
+2
+124528
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C33447220.html
+###
+166
+Dacia Logan
+6199
+1
+84619
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33446181.html
+###
+167
+Dacia Logan
+6399
+1
+68859
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33417710.html
+###
+168
+Dacia Logan
+7199
+2
+91739
+2012
+BUCURESTI
+www.autovit.ro/dacia-logan-C32921061.html
+###
+169
+Dacia Logan
+5999
+2
+63621
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C32920754.html
+###
+170
+Dacia Logan
+7199
+2
+88264
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C32723170.html
+###
+171
+Dacia Logan
+6399
+2
+73394
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C32722889.html
+###
+172
+Dacia Logan
+6399
+2
+72097
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C32722571.html
+###
+173
+Dacia Logan
+5522
+1
+51721
+2009
+BUCURESTI
+www.autovit.ro/dacia-logan-C32722024.html
+###
+174
+Dacia Logan
+6157
+2
+71448
+2009
+BUCURESTI
+www.autovit.ro/dacia-logan-C32494972.html
+###
+175
+Dacia Logan
+6099
+1
+88410
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C32494837.html
+###
+176
+Dacia Logan
+5471
+1
+78002
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C32494398.html
+###
+177
+Dacia Logan
+6126
+1
+35627
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C32304608.html
+###
+178
+Dacia Logan
+5899
+1
+83336
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C32304523.html
+###
+179
+Dacia Logan
+6126
+1
+38560
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C32304164.html
+###
+180
+Dacia Logan
+6126
+1
+33766
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C32304041.html
+###
+181
+Dacia Logan
+6226
+1
+28095
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C32303708.html
+###
+182
+Dacia Logan
+5899
+2
+79686
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C31662328.html
+###
+183
+Dacia Logan
+5722
+1
+38284
+2009
+BUCURESTI
+www.autovit.ro/dacia-logan-C31654821.html
+###
+184
+Dacia Logan
+5822
+1
+23205
+2009
+BUCURESTI
+www.autovit.ro/dacia-logan-C31654784.html
+###
+185
+Dacia Logan
+5899
+1
+85968
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C31321587.html
+###
+186
+Dacia Logan
+2000
+1
+71000
+2005
+BUCURESTI
+www.autovit.ro/dacia-logan-C33957350.html
+###
+187
+Dacia Logan
+1600
+1
+98979
+2005
+BUCURESTI
+www.autovit.ro/dacia-logan-C23780943.html
+###
+188
+Dacia Logan
+3699
+1
+222000
+2008
+CARAS SEVERIN
+www.autovit.ro/dacia-logan-C33828218.html
+###
+189
+Dacia Logan
+6200
+1
+105080
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33119908.html
+###
+190
+Dacia Logan
+4350
+1
+86755
+2007
+BUCURESTI
+www.autovit.ro/dacia-logan-C33292459.html
+###
+191
+Dacia Logan
+10660
+1
+8000
+2013
+BUCURESTI
+www.autovit.ro/dacia-logan-C30035228.html
+###
+192
+Dacia Logan
+5990
+1
+13500
+2011
+VRANCEA
+www.autovit.ro/dacia-logan-C33897774.html
+###
+193
+Dacia Logan
+3490
+2
+134500
+2007
+VRANCEA
+www.autovit.ro/dacia-logan-C33540475.html
+###
+194
+Dacia Logan
+7490
+1
+54239
+2011
+VRANCEA
+www.autovit.ro/dacia-logan-C33664743.html
+###
+195
+Dacia Logan
+7490
+1
+54554
+2012
+VRANCEA
+www.autovit.ro/dacia-logan-C33707313.html
+###
+196
+Dacia Logan Van
+3250
+2
+100000
+2007
+TIMIS
+www.autovit.ro/dacia-logan-van-C33955916.html
+###
+197
+Dacia Logan
+3700
+2
+178000
+2008
+CLUJ
+www.autovit.ro/dacia-logan-C33956646.html
+###
+198
+Dacia Logan
+3300
+2
+168000
+2009
+BRASOV
+www.autovit.ro/dacia-logan-C33955706.html
+###
+199
+Dacia Logan
+3200
+1
+83500
+2007
+TULCEA
+www.autovit.ro/dacia-logan-C33332060.html
+###
+200
+Dacia Logan Van
+2900
+2
+150000
+2007
+SIBIU
+www.autovit.ro/dacia-logan-van-C33760038.html
+###
+201
+Dacia Logan
+3250
+2
+76000
+2007
+ARGES
+www.autovit.ro/dacia-logan-C33954762.html
+###
+202
+Dacia Logan
+3500
+1
+30000
+2009
+ILFOV
+www.autovit.ro/dacia-logan-C33953244.html
+###
+203
+Dacia Logan
+4500
+2
+82000
+2009
+TIMIS
+www.autovit.ro/dacia-logan-C33606963.html
+###
+204
+Dacia Logan
+3300
+1
+82000
+2007
+BIHOR
+www.autovit.ro/dacia-logan-C33952234.html
+###
+205
+Dacia Logan
+3699
+2
+118000
+2009
+HARGHITA
+www.autovit.ro/dacia-logan-C33951600.html
+###
+206
+Dacia Logan
+3300
+2
+126000
+2006
+BACAU
+www.autovit.ro/dacia-logan-C33949884.html
+###
+207
+Dacia Logan
+5800
+2
+90800
+2010
+ARGES
+www.autovit.ro/dacia-logan-C33812421.html
+###
+208
+Dacia Logan
+6450
+2
+58000
+2011
+ARGES
+www.autovit.ro/dacia-logan-C33812403.html
+###
+209
+Dacia Logan
+5850
+2
+78000
+2010
+ARGES
+www.autovit.ro/dacia-logan-C33812432.html
+###
+210
+Dacia Logan
+2990
+2
+100000
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C33949021.html
+###
+211
+Dacia Logan
+3650
+1
+140
+2009
+BUCURESTI
+www.autovit.ro/dacia-logan-C33948131.html
+###
+212
+Dacia Logan
+1250
+2
+200000
+2005
+BUCURESTI
+www.autovit.ro/dacia-logan-C33948223.html
+###
+213
+Dacia Logan
+1550
+1
+122000
+2005
+CLUJ
+www.autovit.ro/dacia-logan-C33947784.html
+###
+214
+Dacia Logan
+6200
+2
+99578
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C33804465.html
+###
+215
+Dacia Logan
+2500
+2
+136500
+2007
+DOLJ
+www.autovit.ro/dacia-logan-C33944036.html
+###
+216
+Dacia Logan
+4500
+1
+93661
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C32587225.html
+###
+217
+Dacia Logan
+5850
+2
+132823
+2010
+ARGES
+www.autovit.ro/dacia-logan-C33532997.html
+###
+218
+Dacia Logan
+4600
+2
+79000
+2008
+ARGES
+www.autovit.ro/dacia-logan-C33691560.html
+###
+219
+Dacia Logan
+4850
+1
+8100
+2012
+ARGES
+www.autovit.ro/dacia-logan-C33946706.html
+###
+220
+Dacia Logan
+2600
+2
+105000
+2006
+ARGES
+www.autovit.ro/dacia-logan-C33945086.html
+###
+221
+Dacia Logan
+3400
+1
+70000
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C33944330.html
+###
+222
+Dacia Logan
+1700
+1
+320
+2005
+BUCURESTI
+www.autovit.ro/dacia-logan-C33943406.html
+###
+223
+Dacia Logan
+1850
+2
+140000
+2006
+ILFOV
+www.autovit.ro/dacia-logan-C33942906.html
+###
+224
+Dacia Logan
+4100
+2
+38989
+2009
+CONSTANTA
+www.autovit.ro/dacia-logan-C33769407.html
+###
+225
+Dacia Logan
+2999
+2
+83000
+2009
+CONSTANTA
+www.autovit.ro/dacia-logan-C33827394.html
+###
+226
+Dacia Logan
+2450
+1
+112000
+2007
+CONSTANTA
+www.autovit.ro/dacia-logan-C33378252.html
+###
+227
+Dacia Logan
+2850
+1
+90877
+2006
+BOTOSANI
+www.autovit.ro/dacia-logan-C33942357.html
+###
+228
+Dacia Logan
+2500
+2
+96000
+2006
+BUCURESTI
+www.autovit.ro/dacia-logan-C33940677.html
+###
+229
+Dacia Logan
+2900
+1
+124000
+2007
+VALCEA
+www.autovit.ro/dacia-logan-C33941049.html
+###
+230
+Dacia Logan
+2790
+1
+84200
+2007
+ARGES
+www.autovit.ro/dacia-logan-C33940469.html
+###
+231
+Dacia Logan
+1900
+1
+150000
+2005
+MURES
+www.autovit.ro/dacia-logan-C33940034.html
+###
+232
+Dacia Logan
+4100
+2
+61000
+2008
+ARGES
+www.autovit.ro/dacia-logan-C33940071.html
+###
+233
+Dacia Logan
+2950
+2
+79100
+2008
+IASI
+www.autovit.ro/dacia-logan-C33939822.html
+###
+234
+Dacia Logan
+5300
+1
+35000
+2012
+BACAU
+www.autovit.ro/dacia-logan-C33938255.html
+###
+235
+Dacia Logan Van
+2350
+2
+86500
+2008
+ARGES
+www.autovit.ro/dacia-logan-van-C33938235.html
+###
+236
+Dacia Logan
+3550
+1
+90000
+2008
+CONSTANTA
+www.autovit.ro/dacia-logan-C33414928.html
+###
+237
+Dacia Logan
+1650
+2
+144000
+2006
+CONSTANTA
+www.autovit.ro/dacia-logan-C33937373.html
+###
+238
+Dacia Logan
+1699
+2
+87000
+2005
+BUCURESTI
+www.autovit.ro/dacia-logan-C33937134.html
+###
+239
+Dacia Logan
+3300
+1
+119780
+2008
+PRAHOVA
+www.autovit.ro/dacia-logan-C33936850.html
+###
+240
+Dacia Logan
+2945
+2
+171000
+2007
+PRAHOVA
+www.autovit.ro/dacia-logan-C33936784.html
+###
+241
+Dacia Logan
+1600
+2
+160000
+2005
+BUCURESTI
+www.autovit.ro/dacia-logan-C33936454.html
+###
+242
+Dacia Logan
+7900
+2
+32250
+2013
+ARGES
+www.autovit.ro/dacia-logan-C33279573.html
+###
+243
+Dacia Logan
+4400
+1
+55100
+2009
+TIMIS
+www.autovit.ro/dacia-logan-C32685256.html
+###
+244
+Dacia Logan
+3990
+1
+91860
+2008
+TIMIS
+www.autovit.ro/dacia-logan-C33212856.html
+###
+245
+Dacia Logan
+4990
+2
+149275
+2010
+TIMIS
+www.autovit.ro/dacia-logan-C33371613.html
+###
+246
+Dacia Logan
+4900
+2
+153032
+2010
+TIMIS
+www.autovit.ro/dacia-logan-C33378275.html
+###
+247
+Dacia Logan
+5950
+2
+108828
+2009
+BUCURESTI
+www.autovit.ro/dacia-logan-C33778436.html
+###
+248
+Dacia Logan
+2950
+2
+178000
+2007
+OLT
+www.autovit.ro/dacia-logan-C31043667.html
+###
+249
+Dacia Logan
+5500
+2
+106000
+2010
+BRAILA
+www.autovit.ro/dacia-logan-C33673165.html
+###
+250
+Dacia Logan
+3790
+1
+51000
+2008
+BRAILA
+www.autovit.ro/dacia-logan-C33522775.html
+###
+251
+Dacia Logan
+1990
+2
+157717
+2005
+BRAILA
+www.autovit.ro/dacia-logan-C33657402.html
+###
+252
+Dacia Logan
+5200
+2
+142404
+2010
+BRAILA
+www.autovit.ro/dacia-logan-C33831406.html
+###
+253
+Dacia Logan
+3900
+1
+106100
+2007
+HARGHITA
+www.autovit.ro/dacia-logan-C31052303.html
+###
+254
+Dacia Logan Van
+3700
+2
+306822
+2008
+HARGHITA
+www.autovit.ro/dacia-logan-van-C32143446.html
+###
+255
+Dacia Logan Van
+2770
+2
+298964
+2009
+HARGHITA
+www.autovit.ro/dacia-logan-van-C33143170.html
+###
+256
+Dacia Logan
+3000
+1
+56350
+2009
+CALARASI
+www.autovit.ro/dacia-logan-C33935390.html
+###
+257
+Dacia Logan
+4000
+2
+63000
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C33933627.html
+###
+258
+Dacia Logan
+4350
+1
+73000
+2009
+TIMIS
+www.autovit.ro/dacia-logan-C33759092.html
+###
+259
+Dacia Logan
+5800
+1
+43000
+2011
+BIHOR
+www.autovit.ro/dacia-logan-C33932953.html
+###
+260
+Dacia Logan
+3800
+1
+86000
+2008
+ARGES
+www.autovit.ro/dacia-logan-C33932455.html
+###
+261
+Dacia Logan
+2450
+1
+66500
+2007
+ARGES
+www.autovit.ro/dacia-logan-C33411356.html
+###
+262
+Dacia Logan
+3500
+2
+145000
+2008
+CONSTANTA
+www.autovit.ro/dacia-logan-C33930691.html
+###
+263
+Dacia Logan
+5500
+2
+62338
+2011
+ARGES
+www.autovit.ro/dacia-logan-C32468371.html
+###
+264
+Dacia Logan
+900
+1
+17000
+2011
+HUNEDOARA
+www.autovit.ro/dacia-logan-C33929770.html
+###
+265
+Dacia Logan
+1750
+1
+103000
+2008
+CLUJ
+www.autovit.ro/dacia-logan-C33322306.html
+###
+266
+Dacia Logan
+7900
+1
+47500
+2013
+ARGES
+www.autovit.ro/dacia-logan-C33929518.html
+###
+267
+Dacia Logan
+2700
+2
+85000
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C33928252.html
+###
+268
+Dacia Logan
+5200
+1
+120000
+2009
+BUCURESTI
+www.autovit.ro/dacia-logan-C33711525.html
+###
+269
+Dacia Logan
+2350
+1
+84000
+2005
+MURES
+www.autovit.ro/dacia-logan-C33908877.html
+###
+270
+Dacia Logan
+2990
+1
+104000
+2007
+PRAHOVA
+www.autovit.ro/dacia-logan-C33864036.html
+###
+271
+Dacia Logan
+1300
+1
+499000
+2004
+PRAHOVA
+www.autovit.ro/dacia-logan-C33927461.html
+###
+272
+Dacia Logan
+2150
+2
+131000
+2006
+HARGHITA
+www.autovit.ro/dacia-logan-C33763393.html
+###
+273
+Dacia Logan
+4000
+1
+80000
+2010
+CONSTANTA
+www.autovit.ro/dacia-logan-C33926781.html
+###
+274
+Dacia Logan
+3200
+1
+25000
+2009
+TIMIS
+www.autovit.ro/dacia-logan-C33924792.html
+###
+275
+Dacia Logan
+2700
+1
+43000
+2006
+IASI
+www.autovit.ro/dacia-logan-C33923950.html
+###
+276
+Dacia Logan
+4529
+1
+45600
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C33923060.html
+###
+277
+Dacia Logan
+2799
+2
+97000
+2008
+CONSTANTA
+www.autovit.ro/dacia-logan-C33560217.html
+###
+278
+Dacia Logan
+4190
+1
+20550
+2010
+SIBIU
+www.autovit.ro/dacia-logan-C33922284.html
+###
+279
+Dacia Logan
+5950
+2
+64300
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33922022.html
+###
+280
+Dacia Logan
+5880
+2
+76172
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C32650824.html
+###
+281
+Dacia Logan
+3000
+1
+104000
+2005
+BUZAU
+www.autovit.ro/dacia-logan-C33921325.html
+###
+282
+Dacia Logan
+2500
 2
 165000
 2007
-Prahova
-www.autovit.ro/fiat-bravo-C33771313.html
+CONSTANTA
+www.autovit.ro/dacia-logan-C33920291.html
 ###
-18
-Fiat Bravo
-7500
+283
+Dacia Logan
+4400
+2
+78000
+2010
+CALARASI
+www.autovit.ro/dacia-logan-C33919320.html
+###
+284
+Dacia Logan
+2950
+2
+93000
+2007
+BRAILA
+www.autovit.ro/dacia-logan-C33844462.html
+###
+285
+Dacia Logan
+3850
 1
-65000
+80000
+2008
+DAMBOVITA
+www.autovit.ro/dacia-logan-C33918321.html
+###
+286
+Dacia Logan Van
+3650
+2
+120000
+2008
+ARAD
+www.autovit.ro/dacia-logan-van-C33918405.html
+###
+287
+Dacia Logan
+1400
+2
+131000
+2006
+BUCURESTI
+www.autovit.ro/dacia-logan-C33917015.html
+###
+288
+Dacia Logan
+3381
+1
+56790
+2006
+MARAMURES
+www.autovit.ro/dacia-logan-C32942631.html
+###
+289
+Dacia Logan
+4490
+1
+86000
+2008
+TIMIS
+www.autovit.ro/dacia-logan-C33916412.html
+###
+290
+Dacia Logan
+5367
+2
+81275
+2011
+ARGES
+www.autovit.ro/dacia-logan-C33441544.html
+###
+291
+Dacia Logan
+1721
+1
+90000
+2005
+ARGES
+www.autovit.ro/dacia-logan-C33913985.html
+###
+292
+Dacia Logan
+4900
+2
+97800
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C33458727.html
+###
+293
+Dacia Logan
+5599
+1
+107376
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C33730874.html
+###
+294
+Dacia Logan
+6399
+2
+46530
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33730658.html
+###
+295
+Dacia Logan
+6100
+1
+4373
+2013
+MARAMURES
+www.autovit.ro/dacia-logan-C33235662.html
+###
+296
+Dacia Logan Van
+3150
+1
+101000
 2008
 BUCURESTI
-www.autovit.ro/fiat-bravo-C33742747.html
+www.autovit.ro/dacia-logan-van-C33911906.html
 ###
-19
-Fiat Bravo
-7000
+297
+Dacia Logan
+2600
+1
+46432
+2007
+ILFOV
+www.autovit.ro/dacia-logan-C33905307.html
+###
+298
+Dacia Logan
+6450
+2
+73229
+2009
+BUCURESTI
+www.autovit.ro/dacia-logan-C33583326.html
+###
+299
+Dacia Logan Van
+2400
+1
+156200
+2007
+PRAHOVA
+www.autovit.ro/dacia-logan-van-C33910100.html
+###
+300
+Dacia Logan
+3650
 1
 56000
-2010
-Bistrita-Nasaud
-www.autovit.ro/fiat-bravo-C32103226.html
+2007
+PRAHOVA
+www.autovit.ro/dacia-logan-C33908068.html
 ###
-20
-Fiat Bravo
+301
+Dacia Logan
+2900
+1
+91000
+2007
+BUZAU
+www.autovit.ro/dacia-logan-C33909781.html
+###
+302
+Dacia Logan
+3750
+2
+90000
+2008
+VALCEA
+www.autovit.ro/dacia-logan-C33487791.html
+###
+303
+Dacia Logan
+3400
+1
+111165
+2006
+CLUJ
+www.autovit.ro/dacia-logan-C33521123.html
+###
+304
+Dacia Logan
+1850
+1
+110000
+2006
+MURES
+www.autovit.ro/dacia-logan-C33310492.html
+###
+305
+Dacia Logan Van
+2700
+1
+35700
+2008
+TIMIS
+www.autovit.ro/dacia-logan-van-C33905122.html
+###
+306
+Dacia Logan
+3800
+1
+45300
+2007
+BRAILA
+www.autovit.ro/dacia-logan-C33616900.html
+###
+307
+Dacia Logan
+2990
+1
+38939
+2007
+BRAILA
+www.autovit.ro/dacia-logan-C33772281.html
+###
+308
+Dacia Logan
+6790
+2
+119688
+2010
+BACAU
+www.autovit.ro/dacia-logan-C33903852.html
+###
+309
+Dacia Logan
+2750
+2
+68000
+2008
+ARGES
+www.autovit.ro/dacia-logan-C33903657.html
+###
+310
+Dacia Logan
+2150
+1
+151000
+2005
+CONSTANTA
+www.autovit.ro/dacia-logan-C33902461.html
+###
+311
+Dacia Logan
+3000
+1
+48000
+2005
+BUCURESTI
+www.autovit.ro/dacia-logan-C33901946.html
+###
+312
+Dacia Logan
+2950
+1
+69000
+2007
+GALATI
+www.autovit.ro/dacia-logan-C33901801.html
+###
+313
+Dacia Logan
+2699
+1
+138000
+2006
+CARAS SEVERIN
+www.autovit.ro/dacia-logan-C33595637.html
+###
+314
+Dacia Logan
+5290
+2
+95520
+2008
+CLUJ
+www.autovit.ro/dacia-logan-C30311289.html
+###
+315
+Dacia Logan
+4990
+2
+79554
+2009
+ARGES
+www.autovit.ro/dacia-logan-C32242253.html
+###
+316
+Dacia Logan Van
+5900
+2
+78682
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-van-C33741708.html
+###
+317
+Dacia Logan Van
+4950
+2
+97860
+2009
+BUCURESTI
+www.autovit.ro/dacia-logan-van-C33748110.html
+###
+318
+Dacia Logan
+4750
+2
+152505
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C33236456.html
+###
+319
+Dacia Logan
+6850
+2
+100992
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C33741812.html
+###
+320
+Dacia Logan
+6990
+1
+6326
+2012
+TIMIS
+www.autovit.ro/dacia-logan-C33606733.html
+###
+321
+Dacia Logan
+2700
+2
+110000
+2007
+ARGES
+www.autovit.ro/dacia-logan-C33898042.html
+###
+322
+Dacia Logan
+4400
+2
+150000
+2010
+DAMBOVITA
+www.autovit.ro/dacia-logan-C33897246.html
+###
+323
+Dacia Logan
+3400
+1
+82500
+2008
+GALATI
+www.autovit.ro/dacia-logan-C33870176.html
+###
+324
+Dacia Logan
+5599
+1
+11300
+2011
+HARGHITA
+www.autovit.ro/dacia-logan-C26649277.html
+###
+325
+Dacia Logan
+2400
+1
+55300
+2005
+BUCURESTI
+www.autovit.ro/dacia-logan-C33894218.html
+###
+326
+Dacia Logan Van
+3100
+2
+98000
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-van-C33894006.html
+###
+327
+Dacia Logan Van
+3200
+2
+114000
+2009
+ARGES
+www.autovit.ro/dacia-logan-van-C33893837.html
+###
+328
+Dacia Logan
+3100
+2
+58900
+2007
+PRAHOVA
+www.autovit.ro/dacia-logan-C33713699.html
+###
+329
+Dacia Logan Van
+4100
+2
+75000
+2011
+ARGES
+www.autovit.ro/dacia-logan-van-C33891298.html
+###
+330
+Dacia Logan
+2000
+1
+165000
+2006
+CONSTANTA
+www.autovit.ro/dacia-logan-C33891034.html
+###
+331
+Dacia Logan
+2350
+1
+120000
+2006
+BUCURESTI
+www.autovit.ro/dacia-logan-C33890043.html
+###
+332
+Dacia Logan Van
+4899
+1
+62503
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-van-C33671776.html
+###
+333
+Dacia Logan Van
+6299
+2
+61705
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-van-C33473711.html
+###
+334
+Dacia Logan Van
+5799
+1
+100193
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-van-C32827797.html
+###
+335
+Dacia Logan
+6299
+2
+75298
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C33672777.html
+###
+336
+Dacia Logan
+5999
+2
+87719
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C33672391.html
+###
+337
+Dacia Logan
+6999
+2
+53485
+2012
+BUCURESTI
+www.autovit.ro/dacia-logan-C33672138.html
+###
+338
+Dacia Logan
+6399
+1
+67893
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33672023.html
+###
+339
+Dacia Logan
+6399
+1
+67893
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33672020.html
+###
+340
+Dacia Logan
+6299
+1
+66526
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33671939.html
+###
+341
+Dacia Logan
+6199
+2
+53218
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33671690.html
+###
+342
+Dacia Logan
+5776
+2
+93044
+2009
+BUCURESTI
+www.autovit.ro/dacia-logan-C33367473.html
+###
+343
+Dacia Logan
+6499
+1
+54280
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33106583.html
+###
+344
+Dacia Logan
+3599
+2
+87677
+2007
+BUCURESTI
+www.autovit.ro/dacia-logan-C33106503.html
+###
+345
+Dacia Logan
+6499
+1
+53027
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C32995400.html
+###
+346
+Dacia Logan
+5299
+2
+89759
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C32995316.html
+###
+347
+Dacia Logan
+6157
+2
+75690
+2009
+BUCURESTI
+www.autovit.ro/dacia-logan-C32601518.html
+###
+348
+Dacia Logan
+1800
+1
+70000
+2005
+CLUJ
+www.autovit.ro/dacia-logan-C33889161.html
+###
+349
+Dacia Logan
+2490
+2
+217000
+2007
+ILFOV
+www.autovit.ro/dacia-logan-C33199858.html
+###
+350
+Dacia Logan
+2950
+1
+78000
+2008
+SUCEAVA
+www.autovit.ro/dacia-logan-C33883828.html
+###
+351
+Dacia Logan Van
+2900
+2
+176009
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-van-C29427722.html
+###
+352
+Dacia Logan
+4999
+1
+35500
+2011
+NEAMT
+www.autovit.ro/dacia-logan-C33548394.html
+###
+353
+Dacia Logan
+6699
+2
+101824
+2011
+NEAMT
+www.autovit.ro/dacia-logan-C33167436.html
+###
+354
+Dacia Logan
+4399
+2
+62250
+2008
+NEAMT
+www.autovit.ro/dacia-logan-C33191804.html
+###
+355
+Dacia Logan
+1450
+1
+123000
+2006
+BUCURESTI
+www.autovit.ro/dacia-logan-C33888428.html
+###
+356
+Dacia Logan
+2999
+2
+90000
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C33607466.html
+###
+357
+Dacia Logan
+2800
+1
+80000
+2005
+BUCURESTI
+www.autovit.ro/dacia-logan-C33885772.html
+###
+358
+Dacia Logan
+3100
+1
+88000
+2008
+CONSTANTA
+www.autovit.ro/dacia-logan-C33885980.html
+###
+359
+Dacia Logan
+1950
+2
+107000
+2006
+BUCURESTI
+www.autovit.ro/dacia-logan-C33613720.html
+###
+360
+Dacia Logan
+4150
+1
+73000
+2009
+ARGES
+www.autovit.ro/dacia-logan-C33883366.html
+###
+361
+Dacia Logan
+2100
+1
+140000
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C33882970.html
+###
+362
+Dacia Logan
+7900
+1
+8900
+2013
+ARGES
+www.autovit.ro/dacia-logan-C33882014.html
+###
+363
+Dacia Logan
+4800
+1
+98000
+2007
+BUCURESTI
+www.autovit.ro/dacia-logan-C33873291.html
+###
+364
+Dacia Logan
+3350
+2
+142000
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C33880674.html
+###
+365
+Dacia Logan Van
+2900
+2
+75953
+2007
+BUCURESTI
+www.autovit.ro/dacia-logan-van-C31470673.html
+###
+366
+Dacia Logan Van
+2900
+2
+123659
+2007
+BUCURESTI
+www.autovit.ro/dacia-logan-van-C31470759.html
+###
+367
+Dacia Logan Van
+2900
+2
+107109
+2007
+BUCURESTI
+www.autovit.ro/dacia-logan-van-C31470810.html
+###
+368
+Dacia Logan
+3400
+2
+101800
+2007
+BUCURESTI
+www.autovit.ro/dacia-logan-C33701075.html
+###
+369
+Dacia Logan
+2900
+2
+140000
+2008
+SUCEAVA
+www.autovit.ro/dacia-logan-C33879706.html
+###
+370
+Dacia Logan Van
+2976
+2
+127282
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-van-C33729292.html
+###
+371
+Dacia Logan Van
+4960
+1
+145030
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-van-C33532528.html
+###
+372
+Dacia Logan
+3099
+1
+140000
+2007
+NEAMT
+www.autovit.ro/dacia-logan-C30858452.html
+###
+373
+Dacia Logan
+6799
+2
+113650
+2011
+NEAMT
+www.autovit.ro/dacia-logan-C33443399.html
+###
+374
+Dacia Logan Van
+2650
+2
+127000
+2008
+HARGHITA
+www.autovit.ro/dacia-logan-van-C33543051.html
+###
+375
+Dacia Logan
+6572
+2
+44600
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33877152.html
+###
+376
+Dacia Logan
+2500
+2
+173000
+2006
+BIHOR
+www.autovit.ro/dacia-logan-C33877126.html
+###
+377
+Dacia Logan
+1700
+1
+144000
+2005
+SIBIU
+www.autovit.ro/dacia-logan-C33755010.html
+###
+378
+Dacia Logan
+1700
+1
+140000
+2005
+BUCURESTI
+www.autovit.ro/dacia-logan-C33876980.html
+###
+379
+Dacia Logan
+6650
+1
+72023
+2012
+BUCURESTI
+www.autovit.ro/dacia-logan-C33839816.html
+###
+380
+Dacia Logan
+3150
+2
+118000
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C33506500.html
+###
+381
+Dacia Logan
 5600
 1
-72315
+23400
+2012
+ARGES
+www.autovit.ro/dacia-logan-C33874420.html
+###
+382
+Dacia Logan
+4900
+2
+92485
+2009
+BUCURESTI
+www.autovit.ro/dacia-logan-C33874352.html
+###
+383
+Dacia Logan
+3300
+1
+90000
 2008
-Brasov
-www.autovit.ro/fiat-bravo-C27926982.html
+ARGES
+www.autovit.ro/dacia-logan-C33453749.html
+###
+384
+Dacia Logan
+5700
+2
+43000
+2011
+ARGES
+www.autovit.ro/dacia-logan-C32346466.html
+###
+385
+Dacia Logan Van
+3300
+1
+82000
+2008
+ARGES
+www.autovit.ro/dacia-logan-van-C31711723.html
+###
+386
+Dacia Logan Van
+4650
+2
+13700
+2010
+ARGES
+www.autovit.ro/dacia-logan-van-C33874194.html
+###
+387
+Dacia Logan
+5999
+1
+39000
+2012
+TIMIS
+www.autovit.ro/dacia-logan-C33873760.html
+###
+388
+Dacia Logan
+3999
+2
+100000
+2008
+TIMIS
+www.autovit.ro/dacia-logan-C33873371.html
+###
+389
+Dacia Logan
+2750
+1
+44000
+2008
+ARGES
+www.autovit.ro/dacia-logan-C33873342.html
+###
+390
+Dacia Logan
+3390
+1
+105000
+2007
+SUCEAVA
+www.autovit.ro/dacia-logan-C33873364.html
+###
+391
+Dacia Logan
+3200
+1
+41500
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C33872440.html
+###
+392
+Dacia Logan
+4950
+2
+87500
+2011
+CONSTANTA
+www.autovit.ro/dacia-logan-C33871908.html
+###
+393
+Dacia Logan
+2999
+2
+86000
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C33717370.html
+###
+394
+Dacia Logan
+2950
+1
+128000
+2007
+VRANCEA
+www.autovit.ro/dacia-logan-C33871233.html
+###
+395
+Dacia Logan
+4400
+2
+33800
+2010
+DAMBOVITA
+www.autovit.ro/dacia-logan-C33870730.html
+###
+396
+Dacia Logan
+4950
+1
+120000
+2010
+PRAHOVA
+www.autovit.ro/dacia-logan-C33869849.html
+###
+397
+Dacia Logan
+2000
+1
+108000
+2006
+BUCURESTI
+www.autovit.ro/dacia-logan-C33637571.html
+###
+398
+Dacia Logan
+3700
+1
+75000
+2007
+GALATI
+www.autovit.ro/dacia-logan-C33867926.html
+###
+399
+Dacia Logan
+2199
+1
+151000
+2005
+ARGES
+www.autovit.ro/dacia-logan-C33688810.html
+###
+400
+Dacia Logan
+4399
+2
+91000
+2008
+ARGES
+www.autovit.ro/dacia-logan-C33867224.html
+###
+401
+Dacia Logan
+6800
+2
+105000
+2011
+ARGES
+www.autovit.ro/dacia-logan-C33866791.html
+###
+402
+Dacia Logan
+3750
+2
+66000
+2007
+BUCURESTI
+www.autovit.ro/dacia-logan-C33448197.html
+###
+403
+Dacia Logan
+2650
+1
+93000
+2005
+NEAMT
+www.autovit.ro/dacia-logan-C32725825.html
+###
+404
+Dacia Logan Van
+7700
+2
+93102
+2008
+ARAD
+www.autovit.ro/dacia-logan-van-C32103066.html
+###
+405
+Dacia Logan
+3596
+2
+160265
+2008
+ARAD
+www.autovit.ro/dacia-logan-C33668270.html
+###
+406
+Dacia Logan
+5390
+1
+113480
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C33341658.html
+###
+407
+Dacia Logan Van
+4490
+2
+81771
+2009
+HARGHITA
+www.autovit.ro/dacia-logan-van-C32409807.html
+###
+408
+Dacia Logan
+2200
+1
+63000
+2006
+BUCURESTI
+www.autovit.ro/dacia-logan-C33865884.html
+###
+409
+Dacia Logan
+2500
+2
+250000
+2007
+OLT
+www.autovit.ro/dacia-logan-C33522229.html
+###
+410
+Dacia Logan
+2300
+2
+132000
+2006
+SUCEAVA
+www.autovit.ro/dacia-logan-C33319537.html
+###
+411
+Dacia Logan
+2700
+2
+99000
+2008
+MURES
+www.autovit.ro/dacia-logan-C33313903.html
+###
+412
+Dacia Logan
+2700
+2
+124567
+2008
+MURES
+www.autovit.ro/dacia-logan-C33509557.html
+###
+413
+Dacia Logan
+3350
+1
+83000
+2008
+PRAHOVA
+www.autovit.ro/dacia-logan-C33864300.html
+###
+414
+Dacia Logan
+3450
+1
+93000
+2008
+PRAHOVA
+www.autovit.ro/dacia-logan-C33864203.html
+###
+415
+Dacia Logan
+2290
+1
+89000
+2005
+PRAHOVA
+www.autovit.ro/dacia-logan-C33335593.html
+###
+416
+Dacia Logan
+2690
+2
+93894
+2007
+PRAHOVA
+www.autovit.ro/dacia-logan-C33861936.html
+###
+417
+Dacia Logan
+3850
+2
+78374
+2008
+ARGES
+www.autovit.ro/dacia-logan-C33377554.html
+###
+418
+Dacia Logan
+5100
+1
+11638
+2008
+BUZAU
+www.autovit.ro/dacia-logan-C33859480.html
+###
+419
+Dacia Logan
+4350
+1
+104750
+2008
+BRAILA
+www.autovit.ro/dacia-logan-C33858994.html
+###
+420
+Dacia Logan
+3950
+2
+145000
+2009
+CONSTANTA
+www.autovit.ro/dacia-logan-C33724583.html
+###
+421
+Dacia Logan
+3600
+2
+90000
+2008
+BUZAU
+www.autovit.ro/dacia-logan-C32945771.html
+###
+422
+Dacia Logan
+3200
+1
+82000
+2008
+CONSTANTA
+www.autovit.ro/dacia-logan-C33856441.html
+###
+423
+Dacia Logan
+3350
+1
+67000
+2009
+ARGES
+www.autovit.ro/dacia-logan-C33854662.html
+###
+424
+Dacia Logan
+6300
+1
+10500
+2012
+ARGES
+www.autovit.ro/dacia-logan-C33853780.html
+###
+425
+Dacia Logan
+2600
+1
+89750
+2006
+SUCEAVA
+www.autovit.ro/dacia-logan-C33852251.html
+###
+426
+Dacia Logan Van
+2400
+2
+95000
+2007
+BUCURESTI
+www.autovit.ro/dacia-logan-van-C33851624.html
+###
+427
+Dacia Logan
+7150
+2
+75000
+2013
+SATU MARE
+www.autovit.ro/dacia-logan-C33850819.html
+###
+428
+Dacia Logan
+4900
+1
+52000
+2011
+PRAHOVA
+www.autovit.ro/dacia-logan-C33664163.html
+###
+429
+Dacia Logan
+1390
+2
+240000
+2006
+ALBA
+www.autovit.ro/dacia-logan-C33437450.html
+###
+430
+Dacia Logan
+3500
+1
+66000
+2008
+DOLJ
+www.autovit.ro/dacia-logan-C33387129.html
+###
+431
+Dacia Logan
+2500
+1
+72000
+2006
+BUCURESTI
+www.autovit.ro/dacia-logan-C33846799.html
+###
+432
+Dacia Logan
+3800
+1
+135000
+2008
+BUZAU
+www.autovit.ro/dacia-logan-C33844081.html
+###
+433
+Dacia Logan Van
+3000
+2
+103820
+2007
+BUCURESTI
+www.autovit.ro/dacia-logan-van-C33843618.html
+###
+434
+Dacia Logan
+8200
+1
+42000
+2012
+BUZAU
+www.autovit.ro/dacia-logan-C30434554.html
+###
+435
+Dacia Logan Van
+4650
+1
+122260
+2010
+ARGES
+www.autovit.ro/dacia-logan-van-C33508398.html
+###
+436
+Dacia Logan
+2500
+1
+71000
+2005
+DAMBOVITA
+www.autovit.ro/dacia-logan-C33841338.html
+###
+437
+Dacia Logan
+4600
+2
+67000
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33421904.html
+###
+438
+Dacia Logan
+2300
+1
+160000
+2005
+CLUJ
+www.autovit.ro/dacia-logan-C33840684.html
+###
+439
+Dacia Logan Van
+3700
+2
+161700
+2007
+BRAILA
+www.autovit.ro/dacia-logan-van-C32725296.html
+###
+440
+Dacia Logan
+8990
+1
+7000
+2012
+BRAILA
+www.autovit.ro/dacia-logan-C32314750.html
+###
+441
+Dacia Logan
+4490
+2
+140950
+2007
+BRAILA
+www.autovit.ro/dacia-logan-C32466580.html
+###
+442
+Dacia Logan
+4500
+2
+136812
+2008
+BRAILA
+www.autovit.ro/dacia-logan-C33061038.html
+###
+443
+Dacia Logan
+3900
+1
+60000
+2011
+ILFOV
+www.autovit.ro/dacia-logan-C33839804.html
+###
+444
+Dacia Logan
+4850
+2
+116265
+2010
+ARGES
+www.autovit.ro/dacia-logan-C33720039.html
+###
+445
+Dacia Logan
+2750
+1
+140000
+2007
+HUNEDOARA
+www.autovit.ro/dacia-logan-C33839735.html
+###
+446
+Dacia Logan
+8800
+2
+39500
+2012
+BUCURESTI
+www.autovit.ro/dacia-logan-C33839581.html
+###
+447
+Dacia Logan
+6150
+1
+75164
+2011
+TIMIS
+www.autovit.ro/dacia-logan-C33720841.html
+###
+448
+Dacia Logan
+1790
+1
+85000
+2006
+BUCURESTI
+www.autovit.ro/dacia-logan-C33835877.html
+###
+449
+Dacia Logan
+4150
+2
+134000
+2010
+BUCURESTI
+www.autovit.ro/dacia-logan-C33835500.html
+###
+450
+Dacia Logan
+7600
+1
+4000
+2014
+ARGES
+www.autovit.ro/dacia-logan-C33737035.html
+###
+451
+Dacia Logan
+2650
+1
+65000
+2007
+OLT
+www.autovit.ro/dacia-logan-C33834485.html
+###
+452
+Dacia Logan
+5300
+2
+86000
+2008
+TIMIS
+www.autovit.ro/dacia-logan-C33834025.html
+###
+453
+Dacia Logan
+2500
+2
+190500
+2006
+CONSTANTA
+www.autovit.ro/dacia-logan-C33832087.html
+###
+454
+Dacia Logan
+2999
+1
+100000
+2007
+CONSTANTA
+www.autovit.ro/dacia-logan-C33831518.html
+###
+455
+Dacia Logan
+4000
+1
+45100
+2010
+BOTOSANI
+www.autovit.ro/dacia-logan-C33722965.html
+###
+456
+Dacia Logan
+2999
+1
+60000
+2008
+PRAHOVA
+www.autovit.ro/dacia-logan-C33828871.html
+###
+457
+Dacia Logan
+8800
+1
+56
+2013
+BUCURESTI
+www.autovit.ro/dacia-logan-C33131973.html
+###
+458
+Dacia Logan
+3800
+2
+78000
+2007
+GALATI
+www.autovit.ro/dacia-logan-C33370052.html
+###
+459
+Dacia Logan Van
+2999
+2
+84500
+2008
+ARGES
+www.autovit.ro/dacia-logan-van-C33476158.html
+###
+460
+Dacia Logan
+3400
+1
+90450
+2009
+BUZAU
+www.autovit.ro/dacia-logan-C33826051.html
+###
+461
+Dacia Logan
+6800
+2
+23569
+2012
+ARGES
+www.autovit.ro/dacia-logan-C33822564.html
+###
+462
+Dacia Logan
+4999
+1
+50000
+2011
+PRAHOVA
+www.autovit.ro/dacia-logan-C33151784.html
+###
+463
+Dacia Logan
+3000
+1
+91400
+2007
+IASI
+www.autovit.ro/dacia-logan-C33819545.html
+###
+464
+Dacia Logan Van
+5150
+2
+56500
+2012
+ARGES
+www.autovit.ro/dacia-logan-van-C33637718.html
+###
+465
+Dacia Logan
+2649
+2
+147500
+2007
+PRAHOVA
+www.autovit.ro/dacia-logan-C33506596.html
+###
+466
+Dacia Logan
+5680
+1
+31000
+2011
+ARGES
+www.autovit.ro/dacia-logan-C33642795.html
+###
+467
+Dacia Logan
+4500
+1
+49000
+2009
+BUCURESTI
+www.autovit.ro/dacia-logan-C33817485.html
+###
+468
+Dacia Logan
+1800
+2
+110000
+2005
+BUCURESTI
+www.autovit.ro/dacia-logan-C33809648.html
+###
+469
+Dacia Logan
+3280
+2
+87000
+2007
+ARGES
+www.autovit.ro/dacia-logan-C33638825.html
+###
+470
+Dacia Logan
+3399
+1
+74000
+2007
+DAMBOVITA
+www.autovit.ro/dacia-logan-C33489856.html
+###
+471
+Dacia Logan
+8745
+1
+4000
+2014
+SUCEAVA
+www.autovit.ro/dacia-logan-C33470789.html
+###
+472
+Dacia Logan
+5450
+2
+55000
+2011
+ARGES
+www.autovit.ro/dacia-logan-C33002387.html
+###
+473
+Dacia Logan
+2850
+2
+100300
+2006
+COVASNA
+www.autovit.ro/dacia-logan-C33815097.html
+###
+474
+Dacia Logan
+3150
+2
+150000
+2008
+MURES
+www.autovit.ro/dacia-logan-C33504606.html
+###
+475
+Dacia Logan
+6100
+2
+67000
+2011
+BUCURESTI
+www.autovit.ro/dacia-logan-C33289087.html
+###
+476
+Dacia Logan
+4100
+1
+35300
+2010
+SIBIU
+www.autovit.ro/dacia-logan-C33792045.html
+###
+477
+Dacia Logan
+2950
+1
+38000
+2004
+BUCURESTI
+www.autovit.ro/dacia-logan-C33784821.html
+###
+478
+Dacia Logan
+3900
+2
+147000
+2008
+CALARASI
+www.autovit.ro/dacia-logan-C33777765.html
+###
+479
+Dacia Logan Van
+3250
+2
+66000
+2007
+BUCURESTI
+www.autovit.ro/dacia-logan-van-C33264310.html
+###
+480
+Dacia Logan
+3000
+2
+109000
+2007
+BUCURESTI
+www.autovit.ro/dacia-logan-C32861237.html
+###
+481
+Dacia Logan
+1999
+1
+130000
+2006
+BRAILA
+www.autovit.ro/dacia-logan-C33755829.html
+###
+482
+Dacia Logan
+5500
+1
+41700
+2010
+TULCEA
+www.autovit.ro/dacia-logan-C33337663.html
+###
+483
+Dacia Logan
+3150
+2
+118462
+2006
+GORJ
+www.autovit.ro/dacia-logan-C33745429.html
+###
+484
+Dacia Logan
+2400
+1
+72548
+2005
+BISTRITA-NASAUD
+www.autovit.ro/dacia-logan-C33734669.html
+###
+485
+Dacia Logan
+2500
+1
+95000
+2006
+BUCURESTI
+www.autovit.ro/dacia-logan-C33726240.html
+###
+486
+Dacia Logan
+3100
+1
+68000
+2008
+BIHOR
+www.autovit.ro/dacia-logan-C33719070.html
+###
+487
+Dacia Logan
+2099
+1
+56200
+2006
+BUCURESTI
+www.autovit.ro/dacia-logan-C33716659.html
+###
+488
+Dacia Logan
+5200
+2
+139000
+2010
+ARGES
+www.autovit.ro/dacia-logan-C33551816.html
+###
+489
+Dacia Logan
+1600
+1
+106000
+2004
+HARGHITA
+www.autovit.ro/dacia-logan-C33692104.html
+###
+490
+Dacia Logan
+5200
+2
+11000
+2008
+BUCURESTI
+www.autovit.ro/dacia-logan-C33656033.html
+###
+491
+Dacia Logan Van
+3250
+1
+75500
+2009
+TIMIS
+www.autovit.ro/dacia-logan-van-C33654967.html
+###
+492
+Dacia Logan
+4200
+1
+112000
+2008
+TIMIS
+www.autovit.ro/dacia-logan-C33654890.html
+###
+493
+Dacia Logan
+2750
+2
+194462
+2007
+BISTRITA-NASAUD
+www.autovit.ro/dacia-logan-C30399690.html
+###
+494
+Dacia Logan
+2200
+2
+184000
+2007
+BISTRITA-NASAUD
+www.autovit.ro/dacia-logan-C31826074.html
+###
+495
+Dacia Logan
+2990
+2
+140000
+2007
+MURES
+www.autovit.ro/dacia-logan-C27883385.html
